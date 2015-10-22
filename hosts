@@ -1,7 +1,10 @@
+#The below is a sample /etc/hosts file
 127.0.0.1	localhost
 127.0.1.1	debian.xxw.ca	debian
 192.168.1.173	u3	u3.xxw.ca
 192.168.1.1	router
+192.168.1.113	vserver0001
+192.168.1.172	vserver0002
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     localhost ip6-localhost ip6-loopback
