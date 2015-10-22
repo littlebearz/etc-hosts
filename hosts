@@ -5,6 +5,8 @@
 192.168.1.1	router
 192.168.1.113	vserver0001
 192.168.1.172	vserver0002
+107.161.127.146 atlanta.xxw.ca
+107.161.127.148 rdp.xxw.ca
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     localhost ip6-localhost ip6-loopback
