@@ -5,8 +5,14 @@
 192.168.1.1	router
 192.168.1.113	vserver0001
 192.168.1.172	vserver0002
-107.161.127.146 atlanta.xxw.ca
-107.161.127.148 rdp.xxw.ca
+
+#Begin of my dedicated /29
+107.161.127.145 cant.use.xxw.ca
+107.161.127.146 atlanta.xxw.ca 146.xxw.ca
+107.161.127.147 147.xxw.ca
+107.161.127.148 rdp.xxw.ca 148.xxw.ca
+107.161.127.149 149.xxw.ca
+107.161.127.150 150.xxw.ca
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     localhost ip6-localhost ip6-loopback
