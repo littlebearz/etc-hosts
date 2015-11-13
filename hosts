@@ -9,12 +9,12 @@
 192.168.86.173	u3	u3.xxw.ca
 
 #Remote
-107.161.127.145 atlanta.gateway.xxw.ca
-107.161.127.146 atl1.xxw.ca atlanta.xxw.ca
-107.161.127.147 atl2.xxw.ca
-107.161.127.148 atl3.xxw.ca rdp.xxw.ca
-107.161.127.149 atl4.xxw.ca 
-107.161.127.150 atl5.xxw.ca 
+107.161.127.145 atlanta.gateway.xxw.ca 145.xxw.ca
+107.161.127.146 atl1.xxw.ca atlanta.xxw.ca 146.xxw.ca
+107.161.127.147 atl2.xxw.ca 147.xxw.ca
+107.161.127.148 atl3.xxw.ca rdp.xxw.ca 148.xxw.ca
+107.161.127.149 atl4.xxw.ca 149.xxw.ca
+107.161.127.150 atl5.xxw.ca 150.xxw.ca
 
 209.141.60.154 littlebearz.com www.littlebearz.com
 
