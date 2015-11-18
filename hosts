@@ -2,11 +2,12 @@
 127.0.0.1	localhost
 
 #Local
-192.168.86.1	router router.xxw.ca
-192.168.86.113	vserver0001 vserver0001.xxw.ca
-192.168.86.172	vserver0002 vserver0002.xxw.ca
+192.168.86.1    router router.xxw.ca
+192.168.86.113  vserver0001 vserver0001.xxw.ca
+192.168.86.116 postgresql postgresql.xxw.ca
 192.168.86.128  debian debian.xxw.ca
-192.168.86.173	u3	u3.xxw.ca
+192.168.86.172  vserver0002 vserver0002.xxw.ca
+192.168.86.173  u3      u3.xxw.ca
 
 
 #Remote
