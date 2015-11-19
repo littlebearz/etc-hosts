@@ -8,7 +8,7 @@
 192.168.86.128  debian debian.xxw.ca
 192.168.86.172  vserver0002 vserver0002.xxw.ca
 192.168.86.173  u3      u3.xxw.ca
-
+192.168.86.174 rpi  rpi.xxw.ca
 
 #Remote
 107.161.127.145 atlanta.gateway.xxw.ca 145.xxw.ca
