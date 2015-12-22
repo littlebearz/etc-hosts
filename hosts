@@ -19,11 +19,11 @@
 192.168.86.116 postgresql postgresql.xxw.ca
 
 #Web Servers
-192.168.86.250 www.xxw.ca xxw.ca #Floating IP for Web Services
-192.168.86.251 vserver0251 ws1.xxw.ca #web server 2
-192.168.86.252 vserver0252 ws2.xxw.ca #web server 3
-192.168.86.253 vserver0253 ws3.xxw.ca #web server 4
-192.168.86.254 vserver0254 ws4.xxw.ca #web server 5
+192.168.86.250 www.xxw.ca xxw.ca #Floating IP for Web Services incl *.xxw.ca
+192.168.86.251 vserver0251 ws1.xxw.ca #web server 1 vm
+192.168.86.252 vserver0252 ws2.xxw.ca #web server 2 vm
+192.168.86.253 vserver0253 ws3.xxw.ca #web server 3 vm
+192.168.86.254 vserver0254 ws4.xxw.ca #web server 4 vm
 
 #Remote
 107.161.127.145 atlanta.gateway.xxw.ca 145.xxw.ca
