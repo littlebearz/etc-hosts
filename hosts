@@ -17,6 +17,7 @@
 
 #DB Servers
 192.168.86.116 postgresql postgresql.xxw.ca
+192.168.86.177 vserver0177 mysql.xxw.ca
 
 #Web Servers
 192.168.86.250 www.xxw.ca xxw.ca #Floating IP for Web Services incl *.xxw.ca
