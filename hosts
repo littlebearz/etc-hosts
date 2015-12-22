@@ -4,15 +4,26 @@
 #Local
 192.168.86.1    router router.xxw.ca
 192.168.86.113  vserver0001 vserver0001.xxw.ca
-192.168.86.116 postgresql postgresql.xxw.ca
 192.168.86.128  debian debian.xxw.ca
 192.168.86.172  vserver0002 vserver0002.xxw.ca
 192.168.86.173  u3      u3.xxw.ca lxc.xxw.ca
   #LXC on port 5000
   #npm_lazy on port 65534
+  #offline
 192.168.86.174 rpi  rpi.xxw.ca
+  #offline
 192.168.86.175 i7 i7.xxw.ca
 192.168.86.176 vserver20151221 #cha p
+
+#DB Servers
+192.168.86.116 postgresql postgresql.xxw.ca
+
+#Web Servers
+192.168.86.250 www.xxw.ca xxw.ca #Floating IP for Web Services
+192.168.86.251 vserver0251 ws1.xxw.ca #web server 2
+192.168.86.252 vserver0252 ws2.xxw.ca #web server 3
+192.168.86.253 vserver0253 ws3.xxw.ca #web server 4
+192.168.86.254 vserver0254 ws4.xxw.ca #web server 5
 
 #Remote
 107.161.127.145 atlanta.gateway.xxw.ca 145.xxw.ca
