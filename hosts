@@ -13,7 +13,7 @@
 192.168.86.174 rpi  rpi.xxw.ca
   #offline
 192.168.86.175 i7 i7.xxw.ca
-192.168.86.176 vserver20151221 #cha p
+192.168.86.221 vserver20151221 #cha p
 
 #DB Servers
 192.168.86.116 postgresql postgresql.xxw.ca
