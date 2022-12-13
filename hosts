@@ -8,6 +8,8 @@
 
 #Mobile Device DHCP
 192.168.86.19   BLACKBERRY-ED15 #MAC: A4:E4:B8:72:D7:73
+192.168.2.245   Pixel-7.EW #MAC: 72:D1:B0:48:38:C0
+192.168.2.242   Pixel-7.YH #MAC: 8A:BD:D2:62:D4:C1
 
 #offline
 192.168.86.174  rpi  rpi.xxw.ca
