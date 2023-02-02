@@ -5,6 +5,7 @@
 192.168.86.1    router router.xxw.ca
 192.168.86.44   SipuraSPA.xxw.ca #Phone PBX System MAC: 00:0e:08:10:a9:e6
 192.168.86.104  vserver0001 vserver0001.xxw.ca
+192.168.86.105  vserver0002 elementaryOS.xxw.ca
 
 #Mobile Device DHCP
 192.168.86.19   BLACKBERRY-ED15 #MAC: A4:E4:B8:72:D7:73
